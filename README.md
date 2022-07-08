@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tori-King
 - 👀 I’m interested in learnign about HTML, CSS and coding bits and pieces.
-- 🌱 I’m currently learning HTML with a little CSS.
-- 💞️ I’m looking to collaborate on thigns in a little while, once ive got my head into things.
+- 🌱 I’m currently learning HTML, CSS and Java inorder to transition into Front End Development.
+- 💞️ I’m looking to collaborate in a little while, once ive got my head into things.
 - 📫 How to reach me tori@torikingphotography.com
 
 <!---
